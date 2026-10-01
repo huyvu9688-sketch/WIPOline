@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "itemNumber": "900613",
+    "description": "BLUE PLASTIC BAG 38INX54IN",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 20,
+    "unit": "EA",
+    "date": "2026-09-28T01:22:02.476Z",
+    "type": "out"
+  },
+  {
+    "id": 2,
+    "itemNumber": "901709",
+    "description": "PLASTIC BAG 40X60IN (15PCS/KG)",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 10,
+    "unit": "EA",
+    "date": "2026-09-28T01:22:28.574Z",
+    "type": "out"
+  },
+  {
+    "id": 3,
+    "itemNumber": "100131",
+    "description": "8/32IN WELT CORD",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 10,
+    "unit": "LM",
+    "date": "2026-09-28T01:23:01.106Z",
+    "type": "out"
+  },
+  {
+    "id": 4,
+    "itemNumber": "100078",
+    "description": "SKIRT CARDBOARD 1X36.5INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 100,
+    "unit": "EA",
+    "date": "2026-09-28T01:23:23.022Z",
+    "type": "out"
+  },
+  {
+    "id": 5,
+    "itemNumber": "100131",
+    "description": "8/32IN WELT CORD",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 100,
+    "unit": "LM",
+    "date": "2026-09-28T01:23:40.967Z",
+    "type": "out"
+  },
+  {
+    "id": 6,
+    "itemNumber": "100131",
+    "description": "8/32IN WELT CORD",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 50,
+    "unit": "LM",
+    "date": "2026-09-28T01:29:08.283Z",
+    "type": "out"
+  },
+  {
+    "id": 7,
+    "itemNumber": "100131",
+    "description": "8/32IN WELT CORD",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 100,
+    "unit": "LM",
+    "date": "2026-09-28T01:29:49.843Z",
+    "type": "out"
+  },
+  {
+    "id": 8,
+    "itemNumber": "100131",
+    "description": "8/32IN WELT CORD",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 100,
+    "unit": "LM",
+    "date": "2026-09-28T01:32:56.584Z",
+    "type": "out"
+  }
+]

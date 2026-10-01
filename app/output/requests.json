@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "itemNumber": "900613",
+    "description": "BLUE PLASTIC BAG 38INX54IN",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 100,
+    "unit": "EA",
+    "line": "25",
+    "requesterName": "Huy",
+    "receiverName": "Minh",
+    "status": "ready",
+    "requestedAt": "2026-09-29T00:37:33.842Z",
+    "readyAt": "2026-09-29T00:41:44.934Z",
+    "pickedUpAt": null
+  }
+]

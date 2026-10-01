@@ -34,3 +34,7 @@ pnpm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# sensitive/local data - internal plant exports and credentials
+/ref/
+/lib/users.json

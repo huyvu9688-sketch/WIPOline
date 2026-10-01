@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "itemNumber": "900613",
+    "description": "BLUE PLASTIC BAG 38INX54IN",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 50,
+    "unit": "EA",
+    "date": "2026-09-28T00:38:26.549Z",
+    "type": "in"
+  },
+  {
+    "id": 2,
+    "itemNumber": "106652",
+    "description": "SWATCH CARD 4.25INX9��179",
+    "material": "Swatch Card",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 20,
+    "unit": "EA",
+    "date": "2026-09-28T00:38:51.815Z",
+    "type": "in"
+  },
+  {
+    "id": 3,
+    "itemNumber": "100312I",
+    "description": "BLUE PLST BAG 34*48IN HD,LLD",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1000,
+    "unit": "EA",
+    "date": "2026-09-28T01:27:52.332Z",
+    "type": "in"
+  },
+  {
+    "id": 4,
+    "itemNumber": "101234",
+    "description": "SWATCH CARD 5INXX11 201COLOR",
+    "material": "Swatch Card",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 50,
+    "unit": "EA",
+    "date": "2026-09-28T07:26:43.940Z",
+    "type": "in"
+  }
+]

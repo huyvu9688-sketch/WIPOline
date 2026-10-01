@@ -1,0 +1,2720 @@
+[
+  {
+    "id": 1,
+    "itemNumber": "10006084CA",
+    "description": "CA LAW LABEL FOR 10006084",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 44,
+    "unit": "EA"
+  },
+  {
+    "id": 2,
+    "itemNumber": "100078",
+    "description": "SKIRT CARDBOARD 1X36.5INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 80,
+    "unit": "EA"
+  },
+  {
+    "id": 3,
+    "itemNumber": "100084",
+    "description": "SKIRT CARDBOARD 1X30.5INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2,
+    "unit": "EA"
+  },
+  {
+    "id": 4,
+    "itemNumber": "100131",
+    "description": "8/32IN WELT CORD",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 0,
+    "unit": "LM"
+  },
+  {
+    "id": 5,
+    "itemNumber": "100248",
+    "description": "THREAD-BONNY NK044 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3.376,
+    "unit": "KM"
+  },
+  {
+    "id": 6,
+    "itemNumber": "100255CH",
+    "description": "THREAD BONNY NL024 TEX270",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16.112,
+    "unit": "KM"
+  },
+  {
+    "id": 7,
+    "itemNumber": "100268CH",
+    "description": "THREAD-BONNY NT0025 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 41.592,
+    "unit": "KM"
+  },
+  {
+    "id": 8,
+    "itemNumber": "100272CH",
+    "description": "THREAD-BONNY 35103 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 48.482,
+    "unit": "KM"
+  },
+  {
+    "id": 9,
+    "itemNumber": "100274",
+    "description": "THREAD-BONNY 3929 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 17.046,
+    "unit": "KM"
+  },
+  {
+    "id": 10,
+    "itemNumber": "100281",
+    "description": "THREAD-PERCOR W32002 TEX40",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1069.277,
+    "unit": "KM"
+  },
+  {
+    "id": 11,
+    "itemNumber": "100281WNK",
+    "description": "THREAD-PERCOR W32002 TEX40",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 583.178,
+    "unit": "KM"
+  },
+  {
+    "id": 12,
+    "itemNumber": "100282WNK",
+    "description": "THREAD-PERCOR W32580 TEX40",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 538.732,
+    "unit": "KM"
+  },
+  {
+    "id": 13,
+    "itemNumber": "100286",
+    "description": "PLASTIC BAG 45X54IN (17PCS/KG)",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 433.064,
+    "unit": "EA"
+  },
+  {
+    "id": 14,
+    "itemNumber": "100339CH",
+    "description": "THREAD-BONNY AN0180 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 25.081,
+    "unit": "KM"
+  },
+  {
+    "id": 15,
+    "itemNumber": "100349",
+    "description": "SHADE TAG LABEL 16MM*26MM",
+    "material": "Label Bundle",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 987.925,
+    "unit": "RL"
+  },
+  {
+    "id": 16,
+    "itemNumber": "100358",
+    "description": "THREAD-BONNY 2486 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 5.663,
+    "unit": "KM"
+  },
+  {
+    "id": 17,
+    "itemNumber": "100405CH",
+    "description": "THREAD-BONNY NK0051 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 135.586,
+    "unit": "KM"
+  },
+  {
+    "id": 18,
+    "itemNumber": "100425CH",
+    "description": "THREAD-BONNY AN154 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 19.037,
+    "unit": "KM"
+  },
+  {
+    "id": 19,
+    "itemNumber": "100469CH",
+    "description": "THREAD-BONNY 4828 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2.293,
+    "unit": "KM"
+  },
+  {
+    "id": 20,
+    "itemNumber": "100494",
+    "description": "THREAD-BONNY 3285 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 90.883,
+    "unit": "KM"
+  },
+  {
+    "id": 21,
+    "itemNumber": "100508",
+    "description": "THREAD-BONNY NA0008 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3.24,
+    "unit": "KM"
+  },
+  {
+    "id": 22,
+    "itemNumber": "100541CH",
+    "description": "THREAD-BONNY AN386 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 41.656,
+    "unit": "KM"
+  },
+  {
+    "id": 23,
+    "itemNumber": "100622",
+    "description": "REINFORCEMENT W 1IN L 7.75IN",
+    "material": "Reinforcement",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 339,
+    "unit": "EA"
+  },
+  {
+    "id": 24,
+    "itemNumber": "100625",
+    "description": "PINK SHADE TAG LABEL 16MM*26MM",
+    "material": "Label Bundle",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 122445.432,
+    "unit": "EA"
+  },
+  {
+    "id": 25,
+    "itemNumber": "100627",
+    "description": "REINFORCEMENT W 1IN L 8.25IN",
+    "material": "D�y c�u tr?ng",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4767,
+    "unit": "EA"
+  },
+  {
+    "id": 26,
+    "itemNumber": "100636-WNK",
+    "description": "SEPARATE FOAM 800X1000X2MM",
+    "material": "Foam QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 167.024,
+    "unit": "EA"
+  },
+  {
+    "id": 27,
+    "itemNumber": "100667",
+    "description": "SOFT THREAD-NYLON 035103 TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1605.166,
+    "unit": "KM"
+  },
+  {
+    "id": 28,
+    "itemNumber": "100667WNK",
+    "description": "SOFT THREAD-NYLON 035103 TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 188.466,
+    "unit": "KM"
+  },
+  {
+    "id": 29,
+    "itemNumber": "100668",
+    "description": "SOFT THREAD-NYLON BLACK TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2542.183,
+    "unit": "KM"
+  },
+  {
+    "id": 30,
+    "itemNumber": "100668WNK",
+    "description": "NYLON TEX70 RE-DYE IN BLACK",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 573.641,
+    "unit": "KM"
+  },
+  {
+    "id": 31,
+    "itemNumber": "100671",
+    "description": "DARK BROWN ZIPPER CHAIN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 273.645,
+    "unit": "LM"
+  },
+  {
+    "id": 32,
+    "itemNumber": "100672",
+    "description": "DARK BROWN ZIPPER SLIDE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 260,
+    "unit": "EA"
+  },
+  {
+    "id": 33,
+    "itemNumber": "100692",
+    "description": "THREAD BONNY NA009 TEX 135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 273.298,
+    "unit": "KM"
+  },
+  {
+    "id": 34,
+    "itemNumber": "100701CH",
+    "description": "THREAD-BONNY 11918 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 150.907,
+    "unit": "KM"
+  },
+  {
+    "id": 35,
+    "itemNumber": "100715CH",
+    "description": "THREAD-BONNY AN0151 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 25.145,
+    "unit": "KM"
+  },
+  {
+    "id": 36,
+    "itemNumber": "100724",
+    "description": "UL150 W/TYPAR 3.5IN 260G WHITE",
+    "material": "Fiber Roll",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 32338.192,
+    "unit": "LM"
+  },
+  {
+    "id": 37,
+    "itemNumber": "100725",
+    "description": "UL150 W/TYPAR 4.5IN 260G WHITE",
+    "material": "Fiber Roll",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 76.705,
+    "unit": "LM"
+  },
+  {
+    "id": 38,
+    "itemNumber": "100730",
+    "description": "THREAD BONNY R WHITE TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 607.012,
+    "unit": "KM"
+  },
+  {
+    "id": 39,
+    "itemNumber": "100730I",
+    "description": "THREAD BONNY R WHITE TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 184.498,
+    "unit": "KM"
+  },
+  {
+    "id": 40,
+    "itemNumber": "100739CH",
+    "description": "THREAD BONNY FT0335A TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 6.414,
+    "unit": "KM"
+  },
+  {
+    "id": 41,
+    "itemNumber": "100765WNK",
+    "description": "JK ZIP-5#-BEIGE-21\"",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 36,
+    "unit": "EA"
+  },
+  {
+    "id": 42,
+    "itemNumber": "100786",
+    "description": "SHADING TAG LABEL36.5X19MM",
+    "material": "Label Bundle",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 60610,
+    "unit": "EA"
+  },
+  {
+    "id": 43,
+    "itemNumber": "100872S",
+    "description": "CARE LABEL 70MMX55MM-S",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 5022,
+    "unit": "EA"
+  },
+  {
+    "id": 44,
+    "itemNumber": "100989",
+    "description": "SKIRT CARDBOARD 1X29INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 536,
+    "unit": "EA"
+  },
+  {
+    "id": 45,
+    "itemNumber": "100992",
+    "description": "THREAD-BONNY NK072 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1.184,
+    "unit": "KM"
+  },
+  {
+    "id": 46,
+    "itemNumber": "100999",
+    "description": "THREAD-BONNY AN0268 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 36.634,
+    "unit": "KM"
+  },
+  {
+    "id": 47,
+    "itemNumber": "101074",
+    "description": "FRINGE CAPE GREY 84201",
+    "material": "D�y vi?n",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 143.814,
+    "unit": "LM"
+  },
+  {
+    "id": 48,
+    "itemNumber": "101082B",
+    "description": "WEBBING2.75IN BLACK ELASTIC",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 9360,
+    "unit": "LM"
+  },
+  {
+    "id": 49,
+    "itemNumber": "101109CH",
+    "description": "THREAD -AN0268 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 181.703,
+    "unit": "KM"
+  },
+  {
+    "id": 50,
+    "itemNumber": "101129CH",
+    "description": "THREAD-BONNY 036091 TEX350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 33.383,
+    "unit": "KM"
+  },
+  {
+    "id": 51,
+    "itemNumber": "101178",
+    "description": "BUTTON STRING 6.5IN PRETIED",
+    "material": "Button String",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 156,
+    "unit": "EA"
+  },
+  {
+    "id": 52,
+    "itemNumber": "101183",
+    "description": "BUTTON STRING 6IN PRETIED",
+    "material": "Button String",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 48,
+    "unit": "EA"
+  },
+  {
+    "id": 53,
+    "itemNumber": "101218-WNK",
+    "description": "SEPARATE FOAM 800X900X2MM",
+    "material": "Foam QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3960.872,
+    "unit": "EA"
+  },
+  {
+    "id": 54,
+    "itemNumber": "101219",
+    "description": "PACKING FOAM100MX800MMX2MM",
+    "material": "Foam",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3940.148,
+    "unit": "LM"
+  },
+  {
+    "id": 55,
+    "itemNumber": "101465",
+    "description": "3.97MM WHITE POLYESTER WELT",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 218559.952,
+    "unit": "LM"
+  },
+  {
+    "id": 56,
+    "itemNumber": "101612WNK",
+    "description": "THREAD GRAMMAX WHITE TEX35",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 7321.169,
+    "unit": "KM"
+  },
+  {
+    "id": 57,
+    "itemNumber": "102958",
+    "description": "REINFORCEMENT W 1IN L 5.75IN",
+    "material": "D�y c�u tr?ng",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 324,
+    "unit": "EA"
+  },
+  {
+    "id": 58,
+    "itemNumber": "103031",
+    "description": "JK ZIP-5#-BLACK-29IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 26,
+    "unit": "EA"
+  },
+  {
+    "id": 59,
+    "itemNumber": "103607",
+    "description": "REINFORC BLACK W 9/16IN L 11IN",
+    "material": "D�y c�u ?en",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2012,
+    "unit": "EA"
+  },
+  {
+    "id": 60,
+    "itemNumber": "103882",
+    "description": "SKIRT CARDBOARD 1X32INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 42,
+    "unit": "EA"
+  },
+  {
+    "id": 61,
+    "itemNumber": "103973",
+    "description": "UL150 4INCH 260G WHITE",
+    "material": "Fiber Roll",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 24.134,
+    "unit": "LM"
+  },
+  {
+    "id": 62,
+    "itemNumber": "104225WNK",
+    "description": "COTTON WELT 4.0MM",
+    "material": "Swatch Card",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 14372.834,
+    "unit": "LM"
+  },
+  {
+    "id": 63,
+    "itemNumber": "104234",
+    "description": "DECKING CLIP V3_4.8MM",
+    "material": "M�c s?t",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 41720,
+    "unit": "EA"
+  },
+  {
+    "id": 64,
+    "itemNumber": "104234I",
+    "description": "DECKING CLIP V3_4.8MM",
+    "material": "Decking",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 117237,
+    "unit": "EA"
+  },
+  {
+    "id": 65,
+    "itemNumber": "104339",
+    "description": "SHADE TAG LABEL 19MM*26MM",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2183.791,
+    "unit": "RL"
+  },
+  {
+    "id": 66,
+    "itemNumber": "104339P",
+    "description": "PINK SHADE TAG LABEL 19MM*26MM",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 10.993,
+    "unit": "RL"
+  },
+  {
+    "id": 67,
+    "itemNumber": "105033",
+    "description": "THREAD-BONNY AN0386 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 0.224,
+    "unit": "KM"
+  },
+  {
+    "id": 68,
+    "itemNumber": "105037",
+    "description": "THREAD CP734-TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2.841,
+    "unit": "KM"
+  },
+  {
+    "id": 69,
+    "itemNumber": "105038",
+    "description": "THREAD CP746- TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 8.347,
+    "unit": "KM"
+  },
+  {
+    "id": 70,
+    "itemNumber": "105174",
+    "description": "BLACK ZIPPER CHAIN #3",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 915.308,
+    "unit": "LM"
+  },
+  {
+    "id": 71,
+    "itemNumber": "105175",
+    "description": "BLACK ZIPPER SLIDE #3",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2248,
+    "unit": "EA"
+  },
+  {
+    "id": 72,
+    "itemNumber": "105272I",
+    "description": "STEEL ROD D4.7MM L 356MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3347,
+    "unit": "EA"
+  },
+  {
+    "id": 73,
+    "itemNumber": "105315",
+    "description": "SKIRT CARDBOARD 1X25IN",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 9,
+    "unit": "EA"
+  },
+  {
+    "id": 74,
+    "itemNumber": "105407",
+    "description": "REINFORC WHITE W 9/16IN L 26IN",
+    "material": "Reinforcement",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 32,
+    "unit": "EA"
+  },
+  {
+    "id": 75,
+    "itemNumber": "105461",
+    "description": "THREAD- BONNY CP766 TEX 350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 35.89,
+    "unit": "KM"
+  },
+  {
+    "id": 76,
+    "itemNumber": "105466",
+    "description": "THREAD- BONNY H0036 TEX 350",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 93.304,
+    "unit": "KM"
+  },
+  {
+    "id": 77,
+    "itemNumber": "105542",
+    "description": "SKIRT CARDBOARD 1X30.25INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 53,
+    "unit": "EA"
+  },
+  {
+    "id": 78,
+    "itemNumber": "105823",
+    "description": "#8 ZIPPER CHAIN BLACK PLASTIC",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3464.634,
+    "unit": "LM"
+  },
+  {
+    "id": 79,
+    "itemNumber": "105824",
+    "description": "#8SLIDE BLACK PLASTIC AUTOLOCK",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3734,
+    "unit": "EA"
+  },
+  {
+    "id": 80,
+    "itemNumber": "105825",
+    "description": "#8 ZIPPER CHAIN PLASTIC BEIGE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 15348.306,
+    "unit": "LM"
+  },
+  {
+    "id": 81,
+    "itemNumber": "105826",
+    "description": "#8 SLIDER BEIGE AUTO LOCK",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 14793,
+    "unit": "EA"
+  },
+  {
+    "id": 82,
+    "itemNumber": "105827",
+    "description": "TAPE MASKING PAPER WHITE W=1.5",
+    "material": "Tape",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 31226.418,
+    "unit": "LM"
+  },
+  {
+    "id": 83,
+    "itemNumber": "105984-WNK",
+    "description": "BUTTON#30SHELL/J-HOOK 26404(A)",
+    "material": "Button",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 64,
+    "unit": "EA"
+  },
+  {
+    "id": 84,
+    "itemNumber": "106013",
+    "description": "JK PLASTIC ZIP-5#-BLACK-19IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 369,
+    "unit": "EA"
+  },
+  {
+    "id": 85,
+    "itemNumber": "106057",
+    "description": "JK PLASTIC ZIP-5#-BLACK-19.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 10,
+    "unit": "EA"
+  },
+  {
+    "id": 86,
+    "itemNumber": "106058",
+    "description": "JK PLASTIC ZIP-5#-BLACK-9.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 32,
+    "unit": "EA"
+  },
+  {
+    "id": 87,
+    "itemNumber": "106060",
+    "description": "JK PLASTIC ZIP-5#-BLACK-18.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 66,
+    "unit": "EA"
+  },
+  {
+    "id": 88,
+    "itemNumber": "106155",
+    "description": "JK PLASTIC ZIP-5#-BLACK-12.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 36,
+    "unit": "EA"
+  },
+  {
+    "id": 89,
+    "itemNumber": "106162",
+    "description": "JK PLASTIC ZIP-5#-BLACK-21IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 54,
+    "unit": "EA"
+  },
+  {
+    "id": 90,
+    "itemNumber": "106172",
+    "description": "#5 ZIPPER CHAIN BLACK PLASTIC",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 891.568,
+    "unit": "LM"
+  },
+  {
+    "id": 91,
+    "itemNumber": "106173",
+    "description": "#5 ZIPPER SLIDE BLACK",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 860,
+    "unit": "EA"
+  },
+  {
+    "id": 92,
+    "itemNumber": "106587",
+    "description": "JK PLASTIC ZIP-5#-BLACK-31.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 53,
+    "unit": "EA"
+  },
+  {
+    "id": 93,
+    "itemNumber": "106802",
+    "description": "10/32'' WELT CORD",
+    "material": "Swatch Card",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 7192.506,
+    "unit": "LM"
+  },
+  {
+    "id": 94,
+    "itemNumber": "106900",
+    "description": "JK PLASTIC ZIP-5#-BLACK-15IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 208,
+    "unit": "EA"
+  },
+  {
+    "id": 95,
+    "itemNumber": "106904",
+    "description": "JK PLASTIC ZIP-5#-BLACK-29.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 97,
+    "unit": "EA"
+  },
+  {
+    "id": 96,
+    "itemNumber": "106943-WNK",
+    "description": "BUTTON#30SHELL/J-HOOK W18870(A",
+    "material": "Button",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 80,
+    "unit": "EA"
+  },
+  {
+    "id": 97,
+    "itemNumber": "106960",
+    "description": "SKIRT CARDBOARD 1X31.75INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 585,
+    "unit": "EA"
+  },
+  {
+    "id": 98,
+    "itemNumber": "106961",
+    "description": "SKIRT CARDBOARD 1X35.3INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 6,
+    "unit": "EA"
+  },
+  {
+    "id": 99,
+    "itemNumber": "107077",
+    "description": "ELASTIC BAND WIDTH 48MM",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2334.768,
+    "unit": "LM"
+  },
+  {
+    "id": 100,
+    "itemNumber": "107086VN",
+    "description": "HONEYCOMB 40X40X30MM 3/10\"CELL",
+    "material": null,
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 96,
+    "unit": "EA"
+  },
+  {
+    "id": 101,
+    "itemNumber": "107169",
+    "description": "JK PLASTIC ZIP-8#-WHITE-74IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 7,
+    "unit": "EA"
+  },
+  {
+    "id": 102,
+    "itemNumber": "107337",
+    "description": "J CHANNEL 16MMX15INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1622,
+    "unit": "EA"
+  },
+  {
+    "id": 103,
+    "itemNumber": "107338",
+    "description": "J CHANNEL 16MMX16INCH-15MM",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 545,
+    "unit": "EA"
+  },
+  {
+    "id": 104,
+    "itemNumber": "107340",
+    "description": "J CHANNEL 16MMX17INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1290,
+    "unit": "EA"
+  },
+  {
+    "id": 105,
+    "itemNumber": "107342",
+    "description": "J CHANNEL 16MMX18INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1635,
+    "unit": "EA"
+  },
+  {
+    "id": 106,
+    "itemNumber": "107344",
+    "description": "J CHANNEL 16MMX19NCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2118,
+    "unit": "EA"
+  },
+  {
+    "id": 107,
+    "itemNumber": "107346",
+    "description": "J CHANNEL 16MMX20INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2721,
+    "unit": "EA"
+  },
+  {
+    "id": 108,
+    "itemNumber": "107348",
+    "description": "J CHANNEL 16MMX21NCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1418,
+    "unit": "EA"
+  },
+  {
+    "id": 109,
+    "itemNumber": "107350",
+    "description": "J CHANNEL 16MMX22INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2611,
+    "unit": "EA"
+  },
+  {
+    "id": 110,
+    "itemNumber": "107352",
+    "description": "J CHANNEL 16MMX23INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 5821,
+    "unit": "EA"
+  },
+  {
+    "id": 111,
+    "itemNumber": "107354",
+    "description": "J CHANNEL 16MMX24INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1817,
+    "unit": "EA"
+  },
+  {
+    "id": 112,
+    "itemNumber": "107356",
+    "description": "J CHANNEL 16 MMX25INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1491,
+    "unit": "EA"
+  },
+  {
+    "id": 113,
+    "itemNumber": "107358",
+    "description": "J CHANNEL 16MMX26INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2162,
+    "unit": "EA"
+  },
+  {
+    "id": 114,
+    "itemNumber": "107359",
+    "description": "J CHANNEL 16MMX26.5INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4,
+    "unit": "EA"
+  },
+  {
+    "id": 115,
+    "itemNumber": "107360",
+    "description": "J CHANNEL 16MMX27INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 314,
+    "unit": "EA"
+  },
+  {
+    "id": 116,
+    "itemNumber": "107362",
+    "description": "J CHANNEL 16MMX28INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1068,
+    "unit": "EA"
+  },
+  {
+    "id": 117,
+    "itemNumber": "107364",
+    "description": "J CHANNEL 16MMX29INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 361,
+    "unit": "EA"
+  },
+  {
+    "id": 118,
+    "itemNumber": "107366",
+    "description": "J CHANNEL 16MMX31INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1344,
+    "unit": "EA"
+  },
+  {
+    "id": 119,
+    "itemNumber": "107367",
+    "description": "J CHANNEL 16MMX32INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 625,
+    "unit": "EA"
+  },
+  {
+    "id": 120,
+    "itemNumber": "107369",
+    "description": "J CHANNEL 16MMX34INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 136,
+    "unit": "EA"
+  },
+  {
+    "id": 121,
+    "itemNumber": "107372",
+    "description": "S CHANNEL 23MMX21INCH",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 51,
+    "unit": "EA"
+  },
+  {
+    "id": 122,
+    "itemNumber": "107375",
+    "description": "S CHANNEL 23MMX25INCH",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 32,
+    "unit": "EA"
+  },
+  {
+    "id": 123,
+    "itemNumber": "107378",
+    "description": "S CHANNEL 23MMX29INCH",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 124,
+    "itemNumber": "107386",
+    "description": "S CHANNEL 23MMX28INCH",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 48,
+    "unit": "EA"
+  },
+  {
+    "id": 125,
+    "itemNumber": "107391",
+    "description": "J CHANNEL 16MMX30INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1243,
+    "unit": "EA"
+  },
+  {
+    "id": 126,
+    "itemNumber": "107486",
+    "description": "J CHANNEL 16MMX33INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 176,
+    "unit": "EA"
+  },
+  {
+    "id": 127,
+    "itemNumber": "107587",
+    "description": "JK PLASTIC ZIP-5#-BLACK-26.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 95,
+    "unit": "EA"
+  },
+  {
+    "id": 128,
+    "itemNumber": "107733",
+    "description": "SKIRT CARDBOARD 1X34.85INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 129,
+    "itemNumber": "107779-WNK",
+    "description": "SEPARATE FOAM 800X1100X2MM",
+    "material": "Foam",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 154.55,
+    "unit": "EA"
+  },
+  {
+    "id": 130,
+    "itemNumber": "107883VN",
+    "description": "SHADE TAG LABEL YL 19MM*26MM",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 158,
+    "unit": "EA"
+  },
+  {
+    "id": 131,
+    "itemNumber": "107912",
+    "description": "5#BLACK ZIPPER SLIDE NON METAL",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3996,
+    "unit": "EA"
+  },
+  {
+    "id": 132,
+    "itemNumber": "107974",
+    "description": "BEIGE ZIPPER SLIDE BIG PULLER",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 243,
+    "unit": "EA"
+  },
+  {
+    "id": 133,
+    "itemNumber": "107975",
+    "description": "BLACK ZIPPER SLIDE BIG PULLER",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 500,
+    "unit": "EA"
+  },
+  {
+    "id": 134,
+    "itemNumber": "108129VN",
+    "description": "STAMPED DECKING CLIP2.8MM-25MM",
+    "material": null,
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 9091,
+    "unit": "EA"
+  },
+  {
+    "id": 135,
+    "itemNumber": "108156",
+    "description": "JK PLASTIC ZIP-5#-BLACK-39.5IN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 203,
+    "unit": "EA"
+  },
+  {
+    "id": 136,
+    "itemNumber": "108262VN",
+    "description": "SKIRT CARDBOARD 1X27.14INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1,
+    "unit": "EA"
+  },
+  {
+    "id": 137,
+    "itemNumber": "108473VN",
+    "description": "SKIRT CARDBOARD 1X29.82INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 200,
+    "unit": "EA"
+  },
+  {
+    "id": 138,
+    "itemNumber": "108474VN",
+    "description": "SKIRT CARDBOARD 1X37.64INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 534,
+    "unit": "EA"
+  },
+  {
+    "id": 139,
+    "itemNumber": "108578VN",
+    "description": "HONEYCOMB 50X50X30MM�3/8\"CELL",
+    "material": null,
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1758,
+    "unit": "EA"
+  },
+  {
+    "id": 140,
+    "itemNumber": "108644",
+    "description": "HIDDEN ZIPPER 26.5IN BEIGE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 642,
+    "unit": "EA"
+  },
+  {
+    "id": 141,
+    "itemNumber": "108645",
+    "description": "HIDDEN ZIPPER 26.5IN BLACK",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 728,
+    "unit": "EA"
+  },
+  {
+    "id": 142,
+    "itemNumber": "108647VN",
+    "description": "SKIRT CARDBOARD 1X12.11 INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 15,
+    "unit": "EA"
+  },
+  {
+    "id": 143,
+    "itemNumber": "108649VN",
+    "description": "SKIRT CARDBOARD 1X22.14INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 53,
+    "unit": "EA"
+  },
+  {
+    "id": 144,
+    "itemNumber": "108727VN",
+    "description": "D-F 1.82/33 229X864X10MM 83513",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1366,
+    "unit": "EA"
+  },
+  {
+    "id": 145,
+    "itemNumber": "108729-WNK",
+    "description": "WARP KNIT BEIGE 90X1500MM",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 233,
+    "unit": "EA"
+  },
+  {
+    "id": 146,
+    "itemNumber": "108749VN",
+    "description": "J CHANNEL 16MMX14INCH-15MM",
+    "material": "Channel",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 232,
+    "unit": "EA"
+  },
+  {
+    "id": 147,
+    "itemNumber": "108755VN",
+    "description": "CARDBOARD��2.4MM*W1.5*12 IN",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 794,
+    "unit": "EA"
+  },
+  {
+    "id": 148,
+    "itemNumber": "108852",
+    "description": "JK PLASTIC ZIP-5#-BLACK-25.5IN",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 29,
+    "unit": "EA"
+  },
+  {
+    "id": 149,
+    "itemNumber": "108882",
+    "description": "JK PLASTIC ZIP-5#-BLACK-35.5IN",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3,
+    "unit": "EA"
+  },
+  {
+    "id": 150,
+    "itemNumber": "13201084CA",
+    "description": "CA LAW LABEL FOR 13201084",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 151,
+    "itemNumber": "18304084CA",
+    "description": "CA LAW LABEL FOR 18304084CA",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 152,
+    "itemNumber": "2.75WEBB6",
+    "description": "WEBBING PRECUT 2.75X6INCH",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 36903,
+    "unit": "EA"
+  },
+  {
+    "id": 153,
+    "itemNumber": "25404084CA",
+    "description": "CA LAW LABEL FOR 25304084",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 32,
+    "unit": "EA"
+  },
+  {
+    "id": 154,
+    "itemNumber": "25404086CA",
+    "description": "CA LAW LABEL FOR 25304086",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 155,
+    "itemNumber": "30901084CA",
+    "description": "CA LAW LABEL FOR 30901084",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 156,
+    "itemNumber": "31217-CS",
+    "description": "OTTOMAN SPACER ZERO GRAVITY",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 176,
+    "unit": "EA"
+  },
+  {
+    "id": 157,
+    "itemNumber": "3WEBB36",
+    "description": "WEBB PRECUT 3X36IN",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 8148,
+    "unit": "EA"
+  },
+  {
+    "id": 158,
+    "itemNumber": "3WEBB38",
+    "description": "WEBB PRECUT 3X38IN",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4814,
+    "unit": "EA"
+  },
+  {
+    "id": 159,
+    "itemNumber": "3WEBB40",
+    "description": "WEBB PRECUT 3X40IN",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1170,
+    "unit": "EA"
+  },
+  {
+    "id": 160,
+    "itemNumber": "470001",
+    "description": "BUTTON #30 SHELL",
+    "material": "Thau s?t",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 204,
+    "unit": "EA"
+  },
+  {
+    "id": 161,
+    "itemNumber": "470052",
+    "description": "STEEL ROD D4.7MM,L546MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 6,
+    "unit": "EA"
+  },
+  {
+    "id": 162,
+    "itemNumber": "470052I",
+    "description": "STEEL ROD D4.7MM L 546MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 727,
+    "unit": "EA"
+  },
+  {
+    "id": 163,
+    "itemNumber": "470056",
+    "description": "STEEL ROD D4.7MM L 775MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 10,
+    "unit": "EA"
+  },
+  {
+    "id": 164,
+    "itemNumber": "470056I",
+    "description": "STEEL ROD D4.7MM L 775MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 697,
+    "unit": "EA"
+  },
+  {
+    "id": 165,
+    "itemNumber": "470058",
+    "description": "STEEL ROD D4.7MM L 508MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 660,
+    "unit": "EA"
+  },
+  {
+    "id": 166,
+    "itemNumber": "470058I",
+    "description": "STEEL ROD D4.7MM L 508MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2397,
+    "unit": "EA"
+  },
+  {
+    "id": 167,
+    "itemNumber": "470059",
+    "description": "STEEL ROD D4.7MM L 737MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 31,
+    "unit": "EA"
+  },
+  {
+    "id": 168,
+    "itemNumber": "470059I",
+    "description": "STEEL ROD D4.7MM L 737MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1770,
+    "unit": "EA"
+  },
+  {
+    "id": 169,
+    "itemNumber": "470060I",
+    "description": "STEEL ROD D4.7MM L 483MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 178,
+    "unit": "EA"
+  },
+  {
+    "id": 170,
+    "itemNumber": "470061I",
+    "description": "STEEL ROD D4.7MM L 749MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 194,
+    "unit": "EA"
+  },
+  {
+    "id": 171,
+    "itemNumber": "470062",
+    "description": "STEEL ROD D4.7MM L 597MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4,
+    "unit": "EA"
+  },
+  {
+    "id": 172,
+    "itemNumber": "470062I",
+    "description": "STEEL ROD D4.7MM L 597MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 802,
+    "unit": "EA"
+  },
+  {
+    "id": 173,
+    "itemNumber": "470063",
+    "description": "STEEL ROD D4.7MM L 762MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 34,
+    "unit": "EA"
+  },
+  {
+    "id": 174,
+    "itemNumber": "470063I",
+    "description": "STEEL ROD D4.7MM L 762MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 382,
+    "unit": "EA"
+  },
+  {
+    "id": 175,
+    "itemNumber": "470064I",
+    "description": "STEEL ROD D4.7MM L 470MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 267,
+    "unit": "EA"
+  },
+  {
+    "id": 176,
+    "itemNumber": "470065",
+    "description": "STEEL ROD D4.7MM,L686MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 382,
+    "unit": "EA"
+  },
+  {
+    "id": 177,
+    "itemNumber": "470065I",
+    "description": "STEEL ROD D4.7MM L 686MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 999,
+    "unit": "EA"
+  },
+  {
+    "id": 178,
+    "itemNumber": "470066I",
+    "description": "STEEL ROD D4.7MM L 711MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1425,
+    "unit": "EA"
+  },
+  {
+    "id": 179,
+    "itemNumber": "470067",
+    "description": "STEEL ROD D4.7MM,L724MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 514,
+    "unit": "EA"
+  },
+  {
+    "id": 180,
+    "itemNumber": "470067I",
+    "description": "STEEL ROD D4.7MM L 724MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 564,
+    "unit": "EA"
+  },
+  {
+    "id": 181,
+    "itemNumber": "470068",
+    "description": "STEEL ROD D4.7MM,L559MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 700,
+    "unit": "EA"
+  },
+  {
+    "id": 182,
+    "itemNumber": "470068I",
+    "description": "STEEL ROD D4.7MM L 559MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 7535,
+    "unit": "EA"
+  },
+  {
+    "id": 183,
+    "itemNumber": "470069",
+    "description": "STEEL ROD D4.7MM L 584MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 127,
+    "unit": "EA"
+  },
+  {
+    "id": 184,
+    "itemNumber": "470069I",
+    "description": "STEEL ROD D4.7MM L 584MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3142,
+    "unit": "EA"
+  },
+  {
+    "id": 185,
+    "itemNumber": "470070",
+    "description": "STEEL ROD D4.7MM L 622MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2722,
+    "unit": "EA"
+  },
+  {
+    "id": 186,
+    "itemNumber": "470070I",
+    "description": "STEEL ROD D4.7MM L 622MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 8744,
+    "unit": "EA"
+  },
+  {
+    "id": 187,
+    "itemNumber": "470071",
+    "description": "STEEL ROD D4.7MM L 533MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 17,
+    "unit": "EA"
+  },
+  {
+    "id": 188,
+    "itemNumber": "470071I",
+    "description": "STEEL ROD D4.7MM L 533MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3109,
+    "unit": "EA"
+  },
+  {
+    "id": 189,
+    "itemNumber": "470072",
+    "description": "STEEL ROD D4.7MM L 660MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 158,
+    "unit": "EA"
+  },
+  {
+    "id": 190,
+    "itemNumber": "470072I",
+    "description": "STEEL ROD D4.7MM L 660MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 100,
+    "unit": "EA"
+  },
+  {
+    "id": 191,
+    "itemNumber": "470073I",
+    "description": "STEEL ROD D4.7MM L 572MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1232,
+    "unit": "EA"
+  },
+  {
+    "id": 192,
+    "itemNumber": "470074",
+    "description": "STEEL ROD D4.7MM L 699MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 169,
+    "unit": "EA"
+  },
+  {
+    "id": 193,
+    "itemNumber": "470074I",
+    "description": "STEEL ROD D4.7MM L 699MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 536,
+    "unit": "EA"
+  },
+  {
+    "id": 194,
+    "itemNumber": "470075",
+    "description": "STEEL ROD D4.7MM L 635MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 53,
+    "unit": "EA"
+  },
+  {
+    "id": 195,
+    "itemNumber": "470075I",
+    "description": "STEEL ROD D4.7MM L 635MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 18,
+    "unit": "EA"
+  },
+  {
+    "id": 196,
+    "itemNumber": "470077",
+    "description": "STEEL ROD D4.7MM L 610MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 126,
+    "unit": "EA"
+  },
+  {
+    "id": 197,
+    "itemNumber": "470077I",
+    "description": "STEEL ROD D4.7MM L 610MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2706,
+    "unit": "EA"
+  },
+  {
+    "id": 198,
+    "itemNumber": "470079I",
+    "description": "STEEL ROD D4.7MM L 648MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 823,
+    "unit": "EA"
+  },
+  {
+    "id": 199,
+    "itemNumber": "470081I",
+    "description": "STEEL ROD D4.7MM L 406MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 122,
+    "unit": "EA"
+  },
+  {
+    "id": 200,
+    "itemNumber": "470083I",
+    "description": "STEEL ROD D4.7MM L 445MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 221,
+    "unit": "EA"
+  },
+  {
+    "id": 201,
+    "itemNumber": "470084I",
+    "description": "STEEL ROD D4.7MM L 521MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 532,
+    "unit": "EA"
+  },
+  {
+    "id": 202,
+    "itemNumber": "470085",
+    "description": "STEEL ROD D4.7MM L 495MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 57,
+    "unit": "EA"
+  },
+  {
+    "id": 203,
+    "itemNumber": "470085I",
+    "description": "STEEL ROD D4.7MM L 495MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 767,
+    "unit": "EA"
+  },
+  {
+    "id": 204,
+    "itemNumber": "470086I",
+    "description": "STEEL ROD D4.7MM L 851MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 135,
+    "unit": "EA"
+  },
+  {
+    "id": 205,
+    "itemNumber": "470087",
+    "description": "STEEL ROD D4.7MM L 673MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 111,
+    "unit": "EA"
+  },
+  {
+    "id": 206,
+    "itemNumber": "470087I",
+    "description": "STEEL ROD D4.7MM L 673MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 234,
+    "unit": "EA"
+  },
+  {
+    "id": 207,
+    "itemNumber": "470088I",
+    "description": "STEEL ROD D4.7MM L 432MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1573,
+    "unit": "EA"
+  },
+  {
+    "id": 208,
+    "itemNumber": "470089I",
+    "description": "STEEL ROD D4.7MM L 914MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 58,
+    "unit": "EA"
+  },
+  {
+    "id": 209,
+    "itemNumber": "470093I",
+    "description": "STEEL ROD D4.7MM L 419MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 362,
+    "unit": "EA"
+  },
+  {
+    "id": 210,
+    "itemNumber": "470095I",
+    "description": "STEEL ROD D4.7MM L 457MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 401,
+    "unit": "EA"
+  },
+  {
+    "id": 211,
+    "itemNumber": "470130I",
+    "description": "STEEL ROD D4.7MM L 254MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 260,
+    "unit": "EA"
+  },
+  {
+    "id": 212,
+    "itemNumber": "470131I",
+    "description": "STEEL ROD D4.7MM L 381MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1645,
+    "unit": "EA"
+  },
+  {
+    "id": 213,
+    "itemNumber": "470133",
+    "description": "STEEL ROD D4.7MM L 31INCH",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 428,
+    "unit": "EA"
+  },
+  {
+    "id": 214,
+    "itemNumber": "470133I",
+    "description": "STEEL ROD D4.7MM L 787MM",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 23,
+    "unit": "EA"
+  },
+  {
+    "id": 215,
+    "itemNumber": "470135",
+    "description": "STEEL ROD D4.7MM L 31.5INCH",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 78,
+    "unit": "EA"
+  },
+  {
+    "id": 216,
+    "itemNumber": "470135I",
+    "description": "STEEL ROD D4.7MM L 31.5INCH",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 49,
+    "unit": "EA"
+  },
+  {
+    "id": 217,
+    "itemNumber": "470136",
+    "description": "STEEL ROD D4.7MM L��32INCH",
+    "material": "Steel Rod",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 345,
+    "unit": "EA"
+  },
+  {
+    "id": 218,
+    "itemNumber": "472000-WNK",
+    "description": "BUTTON #30 J-HOOK BACK",
+    "material": "Phao nh?a",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 204,
+    "unit": "EA"
+  },
+  {
+    "id": 219,
+    "itemNumber": "57604084CA",
+    "description": "CA LAW LABEL FOR 57604084CA",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1348,
+    "unit": "EA"
+  },
+  {
+    "id": 220,
+    "itemNumber": "57604085CA",
+    "description": "CA LAW LABEL FOR 57604085CA",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 896,
+    "unit": "EA"
+  },
+  {
+    "id": 221,
+    "itemNumber": "68207084CA",
+    "description": "CA LAW LABEL FOR 68207084",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 16,
+    "unit": "EA"
+  },
+  {
+    "id": 222,
+    "itemNumber": "72012",
+    "description": "1/2 INCH WHITE ELASTIC",
+    "material": "Sub-material",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 42416.797,
+    "unit": "LM"
+  },
+  {
+    "id": 223,
+    "itemNumber": "73680-RPP",
+    "description": "PLASTIC WASHER",
+    "material": "N�t nh?a",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 156,
+    "unit": "EA"
+  },
+  {
+    "id": 224,
+    "itemNumber": "73948",
+    "description": "BLACK ZIPPER CHAIN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 186297.09,
+    "unit": "LM"
+  },
+  {
+    "id": 225,
+    "itemNumber": "73949",
+    "description": "BLACK ZIPPER SLIDE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 276469.644,
+    "unit": "EA"
+  },
+  {
+    "id": 226,
+    "itemNumber": "73949P",
+    "description": "BLACK ZIPPER SLIDE-PLASTIC",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 75295,
+    "unit": "EA"
+  },
+  {
+    "id": 227,
+    "itemNumber": "74470",
+    "description": "BLACK DOUBLE NEEDLE TAPE",
+    "material": "Needle tape",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 19685.932,
+    "unit": "LM"
+  },
+  {
+    "id": 228,
+    "itemNumber": "74471",
+    "description": "WHT DBL NDL TAPE",
+    "material": "Needle tape",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 12098.015,
+    "unit": "LM"
+  },
+  {
+    "id": 229,
+    "itemNumber": "74759",
+    "description": "BEIGE ZIPPER CHAIN",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 57477.225,
+    "unit": "LM"
+  },
+  {
+    "id": 230,
+    "itemNumber": "74760",
+    "description": "BEIGE ZIPPER SLIDE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 68341,
+    "unit": "EA"
+  },
+  {
+    "id": 231,
+    "itemNumber": "74779",
+    "description": "DESICCANT",
+    "material": "Ch?ng ?m",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3200.928,
+    "unit": "EA"
+  },
+  {
+    "id": 232,
+    "itemNumber": "76922-RPP",
+    "description": "BUTTON TUFTING PADDLE",
+    "material": "M�i ch�o",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 5478,
+    "unit": "EA"
+  },
+  {
+    "id": 233,
+    "itemNumber": "79008",
+    "description": "THREAD-BONNY BLACK TEX70,6KM/R",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 871.669,
+    "unit": "KM"
+  },
+  {
+    "id": 234,
+    "itemNumber": "79094-CS",
+    "description": "PLASTIC OTTOMAN SPACER",
+    "material": null,
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1440,
+    "unit": "EA"
+  },
+  {
+    "id": 235,
+    "itemNumber": "79103",
+    "description": "THREAD-BONNY BLACK TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 92.008,
+    "unit": "KM"
+  },
+  {
+    "id": 236,
+    "itemNumber": "79255",
+    "description": "THREAD-BONNY 35103 TEX70,6KM/R",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 343.091,
+    "unit": "KM"
+  },
+  {
+    "id": 237,
+    "itemNumber": "79256",
+    "description": "THREAD-BONNY 35103 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 400.893,
+    "unit": "KM"
+  },
+  {
+    "id": 238,
+    "itemNumber": "79331",
+    "description": "PLASTIC BAG 34X48IN (44PCS/KG)",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2463.113,
+    "unit": "EA"
+  },
+  {
+    "id": 239,
+    "itemNumber": "79496",
+    "description": "THREAD-BONNY NE0037 TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 13.909,
+    "unit": "KM"
+  },
+  {
+    "id": 240,
+    "itemNumber": "79747",
+    "description": "THREAD-BONNY 235 TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 14.667,
+    "unit": "KM"
+  },
+  {
+    "id": 241,
+    "itemNumber": "79807",
+    "description": "THREAD-BONNY NS005 TEX135",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 21.194,
+    "unit": "KM"
+  },
+  {
+    "id": 242,
+    "itemNumber": "900612",
+    "description": "PLASTIC BAG 38X54IN (39PCS/KG)",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 554.226,
+    "unit": "EA"
+  },
+  {
+    "id": 243,
+    "itemNumber": "902100398N",
+    "description": "US LAW LABEL 100%FEATHER",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1207,
+    "unit": "EA"
+  },
+  {
+    "id": 244,
+    "itemNumber": "902100399",
+    "description": "US LAW LABEL 15%FTR 85%FIBER",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 60,
+    "unit": "EA"
+  },
+  {
+    "id": 245,
+    "itemNumber": "902226P1130",
+    "description": "UPC LABEL FOR A1001131P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 332,
+    "unit": "EA"
+  },
+  {
+    "id": 246,
+    "itemNumber": "902226P1131",
+    "description": "UPC LABEL FOR A1001131P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 388,
+    "unit": "EA"
+  },
+  {
+    "id": 247,
+    "itemNumber": "902226P1132",
+    "description": "UPC LABEL FOR A1001132P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 40,
+    "unit": "EA"
+  },
+  {
+    "id": 248,
+    "itemNumber": "902226P1135",
+    "description": "UPC LABEL FOR A1001135P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 96,
+    "unit": "EA"
+  },
+  {
+    "id": 249,
+    "itemNumber": "902226P1136",
+    "description": "UPC LABEL FOR A1001136P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 132,
+    "unit": "EA"
+  },
+  {
+    "id": 250,
+    "itemNumber": "902226P1140",
+    "description": "UPC LABEL FOR A1001140P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 24,
+    "unit": "EA"
+  },
+  {
+    "id": 251,
+    "itemNumber": "902226P1142",
+    "description": "UPC LABEL FOR A1001142",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 252,
+    "unit": "EA"
+  },
+  {
+    "id": 252,
+    "itemNumber": "902226P1143",
+    "description": "UPC LABEL FOR A1001143",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 212,
+    "unit": "EA"
+  },
+  {
+    "id": 253,
+    "itemNumber": "902226P1180",
+    "description": "UPC LABEL FOR A1001180",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 684,
+    "unit": "EA"
+  },
+  {
+    "id": 254,
+    "itemNumber": "902226P1182",
+    "description": "UPC LABEL FOR A1001182P",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 224,
+    "unit": "EA"
+  },
+  {
+    "id": 255,
+    "itemNumber": "902234C1130",
+    "description": "CA LAW LABEL FOR A1001130P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 332,
+    "unit": "EA"
+  },
+  {
+    "id": 256,
+    "itemNumber": "902234C1131",
+    "description": "CA LAW LABEL FOR A1001131P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 388,
+    "unit": "EA"
+  },
+  {
+    "id": 257,
+    "itemNumber": "902234C1132",
+    "description": "CA LAW LABEL FOR A1001132P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 40,
+    "unit": "EA"
+  },
+  {
+    "id": 258,
+    "itemNumber": "902234C1135",
+    "description": "CA LAW LABEL FOR A1001135P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 96,
+    "unit": "EA"
+  },
+  {
+    "id": 259,
+    "itemNumber": "902234C1136",
+    "description": "CA LAW LABEL FOR A1001136P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 132,
+    "unit": "EA"
+  },
+  {
+    "id": 260,
+    "itemNumber": "902234C1140",
+    "description": "CA LAW LABEL FOR A1001140P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 24,
+    "unit": "EA"
+  },
+  {
+    "id": 261,
+    "itemNumber": "902234C1142",
+    "description": "CA LAW LABEL FOR A1001142P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 252,
+    "unit": "EA"
+  },
+  {
+    "id": 262,
+    "itemNumber": "902234C1143",
+    "description": "CA LAW LABEL FOR A1001143P",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 212,
+    "unit": "EA"
+  },
+  {
+    "id": 263,
+    "itemNumber": "902234C1180",
+    "description": "CA LAW LABEL FOR A1001180P",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 684,
+    "unit": "EA"
+  },
+  {
+    "id": 264,
+    "itemNumber": "902234C1182",
+    "description": "CA LAW LABEL FOR A1001182P",
+    "material": "PRECUT KIT",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 224,
+    "unit": "EA"
+  },
+  {
+    "id": 265,
+    "itemNumber": "905043",
+    "description": "PACKING TAPE W3.5CM",
+    "material": "Tape",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 940.076,
+    "unit": "LM"
+  },
+  {
+    "id": 266,
+    "itemNumber": "906079N",
+    "description": "US LAW LABEL 50%FTR 50%FIBER",
+    "material": "Label Pillow",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 3653,
+    "unit": "EA"
+  },
+  {
+    "id": 267,
+    "itemNumber": "WNK100282",
+    "description": "THREAD-PERCOR W32580 TEX40",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 845.484,
+    "unit": "KM"
+  },
+  {
+    "id": 268,
+    "itemNumber": "WNK100458",
+    "description": "1IN WIDTH BLACK VELCRO LOOP",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 23886.477,
+    "unit": "LM"
+  },
+  {
+    "id": 269,
+    "itemNumber": "WNK100459",
+    "description": "1IN WIDTH BLACK VELCRO HOOK",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 572.676,
+    "unit": "LM"
+  },
+  {
+    "id": 270,
+    "itemNumber": "WNK100497",
+    "description": "THREAD-BONNY 235 TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 15.34,
+    "unit": "KM"
+  },
+  {
+    "id": 271,
+    "itemNumber": "WNK100527",
+    "description": "1IN WIDTH BEIGE VELCRO HOOK",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 130.552,
+    "unit": "LM"
+  },
+  {
+    "id": 272,
+    "itemNumber": "WNK100547",
+    "description": "1IN WIDTH BEIGE VELCRO LOOP",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4183.403,
+    "unit": "LM"
+  },
+  {
+    "id": 273,
+    "itemNumber": "WNK100668",
+    "description": "SOFT THREAD- POLY BLACK TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 229.796,
+    "unit": "KM"
+  },
+  {
+    "id": 274,
+    "itemNumber": "WNK100674",
+    "description": "1IN WIDE DARK BROWN VELCRO LP",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 26.378,
+    "unit": "LM"
+  },
+  {
+    "id": 275,
+    "itemNumber": "WNK100675",
+    "description": "2IN WIDE DARK BROWN VELCRO HK",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 26.097,
+    "unit": "LM"
+  },
+  {
+    "id": 276,
+    "itemNumber": "WNK100677",
+    "description": "THREAD-BONNY PERCOR 235 TEX40",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2.705,
+    "unit": "KM"
+  },
+  {
+    "id": 277,
+    "itemNumber": "WNK100881",
+    "description": "HIDDEN ZIPPER 17.5IN BEIGE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 684,
+    "unit": "EA"
+  },
+  {
+    "id": 278,
+    "itemNumber": "WNK100987",
+    "description": "HIDDEN� ZIPPER 21.5IN BLACK",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1380,
+    "unit": "EA"
+  },
+  {
+    "id": 279,
+    "itemNumber": "WNK101016",
+    "description": "HIDDEN ZIPPER 23.5IN BLACK",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 268,
+    "unit": "EA"
+  },
+  {
+    "id": 280,
+    "itemNumber": "WNK101018",
+    "description": "HIDDEN ZIPPER 21.5 IN BEIGE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2180,
+    "unit": "EA"
+  },
+  {
+    "id": 281,
+    "itemNumber": "WNK101022",
+    "description": "HIDDEN ZIPPER 23.5IN BEIGE",
+    "material": "Zipper",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 212,
+    "unit": "EA"
+  },
+  {
+    "id": 282,
+    "itemNumber": "WNK101858",
+    "description": "SKIRT CARDBOARD 1X34.5INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 32,
+    "unit": "EA"
+  },
+  {
+    "id": 283,
+    "itemNumber": "WNK101859",
+    "description": "SKIRT CARDBOARD 1X31INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 38,
+    "unit": "EA"
+  },
+  {
+    "id": 284,
+    "itemNumber": "WNK101860",
+    "description": "SKIRT CARDBOARD1X26.5INCH",
+    "material": "CardBoard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 290,
+    "unit": "EA"
+  },
+  {
+    "id": 285,
+    "itemNumber": "WNK101862",
+    "description": "SKIRT CARDBOARD 1*37.5INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 44,
+    "unit": "EA"
+  },
+  {
+    "id": 286,
+    "itemNumber": "WNK102125",
+    "description": "4.2MM FIRMER BLACK POLYWELT",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 12424.636,
+    "unit": "LM"
+  },
+  {
+    "id": 287,
+    "itemNumber": "WNK102418",
+    "description": "SKIRT CARDBOARD 1X32.5INCH",
+    "material": "Cardboard",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 72,
+    "unit": "EA"
+  },
+  {
+    "id": 288,
+    "itemNumber": "WNK102421",
+    "description": "WEBBING 2.75X12INGREEN ELASTIC",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 778,
+    "unit": "EA"
+  },
+  {
+    "id": 289,
+    "itemNumber": "WNK102423",
+    "description": "THREAD-BONNY NE0037 TEX40",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 13.655,
+    "unit": "KM"
+  },
+  {
+    "id": 290,
+    "itemNumber": "WNK102424",
+    "description": "REINFORCE BAND 1CM BLACK STRIP",
+    "material": "D�y ch?ng",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4195.595,
+    "unit": "LM"
+  },
+  {
+    "id": 291,
+    "itemNumber": "WNK102493B",
+    "description": "WEBBING 2.75X9IN BLACK ELASTIC",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 20647,
+    "unit": "EA"
+  },
+  {
+    "id": 292,
+    "itemNumber": "WNK104235B",
+    "description": "WEBBING 2.75X6IN BLACK ELASTIC",
+    "material": "Webbing",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 108080,
+    "unit": "EA"
+  },
+  {
+    "id": 293,
+    "itemNumber": "WNK73538",
+    "description": "2IN WIDTH BEIGE VELCRO HOOK",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4523.322,
+    "unit": "LM"
+  },
+  {
+    "id": 294,
+    "itemNumber": "WNK73539",
+    "description": "2IN WIDTH BEIGE VELCRO LOOP",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 657.595,
+    "unit": "LM"
+  },
+  {
+    "id": 295,
+    "itemNumber": "WNK73624",
+    "description": "2IN WIDTH BLACK VELCRO HOOK",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 20357.932,
+    "unit": "LM"
+  },
+  {
+    "id": 296,
+    "itemNumber": "WNK73625",
+    "description": "2IN WIDTH BLACK VELCRO LOOP",
+    "material": "Velcro",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 821.698,
+    "unit": "LM"
+  },
+  {
+    "id": 297,
+    "itemNumber": "WNK74762",
+    "description": "5/32 PLASTIC WELT",
+    "material": "Welt",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 7204.113,
+    "unit": "LM"
+  },
+  {
+    "id": 298,
+    "itemNumber": "WNK79008",
+    "description": "THREAD-BONNY BLACK TEX70.6KM/",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 2512.281,
+    "unit": "KM"
+  },
+  {
+    "id": 299,
+    "itemNumber": "WNK79103",
+    "description": "THREAD-BONNY BLACK TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 270.545,
+    "unit": "KM"
+  },
+  {
+    "id": 300,
+    "itemNumber": "WNK79255",
+    "description": "THREAD-BONNY 35103TEX70",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1514.77,
+    "unit": "KM"
+  },
+  {
+    "id": 301,
+    "itemNumber": "WNK79622",
+    "description": "THREAD-BONNY NU047B TEX135",
+    "material": "Thread",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 4.745,
+    "unit": "KM"
+  },
+  {
+    "id": 302,
+    "itemNumber": "WNK905984",
+    "description": "PLASTIC BAG 27X38INCHX0.017MM",
+    "material": "Bag QP",
+    "supTeam": "Nguyen, Thi Dung",
+    "quantity": 1.008,
+    "unit": "EA"
+  }
+]
